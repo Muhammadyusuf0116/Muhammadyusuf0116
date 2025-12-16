@@ -3,10 +3,8 @@
 🎓 Software Engineer Student
 🏫 PDP University  
 📍 Tashkent, Uzbekistan  
-🚀 Java, Python, Web Technologies
+💻 Java, Python, Web Technologies
 
-
----
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,20 +14,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 ## 🚀 Projects
 🔹 **CodeCraft** — Java OOP based project  
 🔹 **WorkHub Central** — Coworking spaces website  
 
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Muhammadyusuf0116&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadyusuf0116&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyusuf0116&theme=dark&hide_border=false&layout=compact)
 
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Muhammadyusuf0116/Muhammadyusuf0116/blob/output/github-contribution-grid-snake.svg)
