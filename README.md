@@ -1,7 +1,7 @@
 ## Hi, I'm Muhammadyusuf
 
 
-🎓 Software Engineer Student
+🎓 Software Engineer Student                                              
 🏫 PDP University  
 📍 Tashkent, Uzbekistan  
 💻 Java, Python, Web Technologies
