@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Muhammadyusuf
+## Hi, I'm Muhammadyusuf
 
 
 🎓 Software Engineer Student
